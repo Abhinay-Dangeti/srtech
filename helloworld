@@ -1,4 +1,5 @@
 a='hello'
 b='world'
-print(f'{a} {b}')
-print('new line which added directly in master')
+print(f'{a} {b}'
+print('new requirement')
+>>>>>>> merge
