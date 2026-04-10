@@ -2,4 +2,3 @@ a='hello'
 b='world'
 print(f'{a} {b}'
 print('new requirement')
->>>>>>> merge
